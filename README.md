@@ -1,4 +1,4 @@
-# Any Civitai Chroma model — RunPod Serverless worker
+# Chroma Universal — RunPod Serverless worker
 
 A ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) worker for **any Chroma model on Civitai** — Chroma1-HD, Chroma1-Base and their fine-tunes. You paste the model's Civitai link into the `Dockerfile`; the build downloads that model and bakes it into the image. Based on the official [`runpod/worker-comfyui`](https://github.com/runpod-workers/worker-comfyui).
 
